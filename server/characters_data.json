@@ -1,0 +1,627 @@
+[
+  {
+    "name": "Masamichi Yaga",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/60/MasamichiP.png",
+    "description": "Principal of Tokyo Jujutsu High and creator of cursed corpses."
+  },
+  {
+    "name": "Satoru Gojo",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/53/GojoP.png",
+    "description": "The strongest jujutsu sorcerer, wielder of the Six Eyes and Limitless techniques."
+  },
+  {
+    "name": "Atsuya Kusakabe",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/3c/AtsuyaKusakabeP.png",
+    "description": "A Grade 1 sorcerer and teacher at Tokyo Jujutsu High."
+  },
+  {
+    "name": "Kiyotaka Ijichi",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f7/IjichiP.png",
+    "description": "Assistant Director at Tokyo Jujutsu High."
+  },
+  {
+    "name": "Shoko Ieiri",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/fc/ShokoIeriP.png",
+    "description": "Doctor at Tokyo Jujutsu High, capable of using Reversed Cursed Technique."
+  },
+  {
+    "name": "Akari Nitta",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/4c/AkariNittaP.png",
+    "description": "An auxiliary manager at Tokyo Jujutsu High."
+  },
+  {
+    "name": "Yuji Itadori",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/64/YujiP.png",
+    "description": "The main protagonist, vessel for Ryomen Sukuna."
+  },
+  {
+    "name": "Megumi Fushiguro",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/58/MegumiP.png",
+    "description": "First-year student at Tokyo Jujutsu High, user of the Ten Shadows Technique."
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/81/NobaraP.png",
+    "description": "First-year student at Tokyo Jujutsu High, user of the Straw Doll Technique."
+  },
+  {
+    "name": "Maki Zenin",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/da/MakiP_%28Current%29.png",
+    "description": "Second-year student at Tokyo Jujutsu High, known for her physical prowess despite lacking cursed energy."
+  },
+  {
+    "name": "Toge Inumaki",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/04/TogeP_%28Second-Year%29.png",
+    "description": "Second-year student at Tokyo Jujutsu High, user of Cursed Speech."
+  },
+  {
+    "name": "Panda",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/50/PandaP.png",
+    "description": "Second-year student at Tokyo Jujutsu High, a mutated Abrupt Mutated Cursed Corpse."
+  },
+  {
+    "name": "Yuta Okkotsu",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/65/YutaOkkotsuP_%28Second-Year%29.png",
+    "description": "Special Grade sorcerer and former student at Tokyo Jujutsu High."
+  },
+  {
+    "name": "Kinji Hakari",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/29/KinjiHakariP.png",
+    "description": "Third-year student at Tokyo Jujutsu High, currently suspended."
+  },
+  {
+    "name": "Kirara Hoshi",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/83/KiraraHoshiP.png",
+    "description": "Third-year student at Tokyo Jujutsu High and associate of Kinji Hakari."
+  },
+  {
+    "name": "Kento Nanami",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/ac/KentoNanamiP_%282006_Color%29.png",
+    "description": "Grade 1 sorcerer and mentor to Yuji Itadori."
+  },
+  {
+    "name": "Yu Haibara",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f8/YuHaibaraP_%28Color%29.png",
+    "description": "Former student at Tokyo Jujutsu High and friend of Kento Nanami."
+  },
+  {
+    "name": "Suguru Geto",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d5/SuguruGetoP_%282006%29.png",
+    "description": "Former Special Grade sorcerer turned curse user."
+  },
+  {
+    "name": "Yoshinobu Gakuganji",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/da/YoshinobuP.png",
+    "description": "Principal of Kyoto Jujutsu High."
+  },
+  {
+    "name": "Utahime Iori",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d7/UtahimeP.png",
+    "description": "Teacher at Kyoto Jujutsu High."
+  },
+  {
+    "name": "Arata Nitta",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/1/13/ArataNittaP.png",
+    "description": "First-year student at Kyoto Jujutsu High and younger brother of Akari Nitta."
+  },
+  {
+    "name": "Mai Zenin",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/46/MaiP.png",
+    "description": "Second-year student at Kyoto Jujutsu High and twin sister of Maki Zenin."
+  },
+  {
+    "name": "Kokichi Muta",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6d/KokichiP.png",
+    "description": "Second-year student at Kyoto Jujutsu High, user of Mechamaru."
+  },
+  {
+    "name": "Kasumi Miwa",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d8/KasumiMiwaP.png",
+    "description": "Second-year student at Kyoto Jujutsu High, user of New Shadow Style."
+  },
+  {
+    "name": "Noritoshi Kamo",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6c/NoritoshiKamoP.png",
+    "description": "Third-year student at Kyoto Jujutsu High and next head of the Kamo Family."
+  },
+  {
+    "name": "Aoi Todo",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d1/AoiP.png",
+    "description": "Third-year student at Kyoto Jujutsu High, Grade 1 sorcerer."
+  },
+  {
+    "name": "Momo Nishimiya",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/b/b4/MomoNishimiyaP.png",
+    "description": "Third-year student at Kyoto Jujutsu High."
+  },
+  {
+    "name": "Yuka Okkotsu",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8b/YukaP.png",
+    "description": "Relative of Yuta Okkotsu."
+  },
+  {
+    "name": "Tsurugi Okkotsu",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/ee/TsurugiP.png",
+    "description": "Relative of Yuta Okkotsu."
+  },
+  {
+    "name": "Takuma Ino",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8b/TakumaInoP.png",
+    "description": "Grade 2 sorcerer and associate of Kento Nanami."
+  },
+  {
+    "name": "Mei Mei",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/c6/MeiMeiP.png",
+    "description": "Grade 1 sorcerer who works for money."
+  },
+  {
+    "name": "Yuki Tsukumo",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/2a/YukiTsukumoP.png",
+    "description": "One of only four Special Grade sorcerers."
+  },
+  {
+    "name": "Tengen",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/37/TengenP.png",
+    "description": "The immortal sorcerer who maintains the barriers of Jujutsu High."
+  },
+  {
+    "name": "Naobito Zenin",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/7b/NaobitoZeninP.png",
+    "description": "26th Head of the Zenin Family and Grade 1 sorcerer."
+  },
+  {
+    "name": "Naoya Zenin",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/46/NaoyaZeninP_%28Color%29.png",
+    "description": "Heir to the Zenin Family."
+  },
+  {
+    "name": "Ogi Zenin",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/43/OgiZeninP.png",
+    "description": "Brother of Naobito and father of Maki and Mai."
+  },
+  {
+    "name": "Ranta Zenin",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/56/RantaZeninP.png",
+    "description": "Member of the Zenin Family's elite Hei squad."
+  },
+  {
+    "name": "Jinichi Zenin",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/80/JinichiZeninP.png",
+    "description": "Member of the Zenin Family's elite Hei squad."
+  },
+  {
+    "name": "Chojuro Zenin",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9c/ChojuroZeninP.png",
+    "description": "Member of the Zenin Family's elite Hei squad."
+  },
+  {
+    "name": "Nobuaki Zenin",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/a4/NobuakiZeninP.png",
+    "description": "Member of the Zenin Family's Kukuru squad."
+  },
+  {
+    "name": "Sorcerer Clan",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/27/Noritoshi%27sDadP.png",
+    "description": ""
+  },
+  {
+    "name": "Shino",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/e0/ShinoKamoP.png",
+    "description": ""
+  },
+  {
+    "name": "Hajime Kashimo",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/a8/HajimeKashimoP.png",
+    "description": "Sorcerer from 400 years ago, participant in the Culling Game."
+  },
+  {
+    "name": "Hana Kurusu",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/0c/HanaKurusuP.png",
+    "description": "Sorcerer who can nullify cursed techniques, known as The Angel."
+  },
+  {
+    "name": "Hiromi Higuruma",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9d/HiromiHigurumaP.png",
+    "description": "Lawyer turned sorcerer in the Culling Game."
+  },
+  {
+    "name": "Fumihiko Takaba",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/61/FumihikoTakabaP.png",
+    "description": "Comedian turned sorcerer with an reality-warping technique."
+  },
+  {
+    "name": "Rin Amai",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/fd/RinAmaiP.png",
+    "description": ""
+  },
+  {
+    "name": "Hanyu",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f6/HanyuP.png",
+    "description": ""
+  },
+  {
+    "name": "Haba",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/78/HabaP.png",
+    "description": ""
+  },
+  {
+    "name": "Yorozu",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/00/YorozuP.png",
+    "description": "Ancient sorcerer obsessed with Sukuna."
+  },
+  {
+    "name": "Reggie Star",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/67/ReggieStarP.png",
+    "description": "Culling Game player using contract-based techniques."
+  },
+  {
+    "name": "Remi",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/1/18/RemiP.png",
+    "description": ""
+  },
+  {
+    "name": "Iori Hazenoki",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/72/IoriHazenokiP.png",
+    "description": ""
+  },
+  {
+    "name": "Chizuru Hari",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/ab/ChizuruHariP.png",
+    "description": ""
+  },
+  {
+    "name": "Dhruv Lakdawalla",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/67/DhruvLakdawallaP.png",
+    "description": ""
+  },
+  {
+    "name": "Ryu Ishigori",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/5d/RyuIshigoriP.png",
+    "description": "Culling Game player with the highest cursed energy output."
+  },
+  {
+    "name": "Takako Uro",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/e3/TakakoUroP.png",
+    "description": "Former captain of the Sun, Moon, and Stars squad."
+  },
+  {
+    "name": "Charles Bernard",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/db/CharlesBernardP.png",
+    "description": ""
+  },
+  {
+    "name": "Hagane Daido",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/b/b0/HaganeDaidoP.png",
+    "description": ""
+  },
+  {
+    "name": "Rokujushi Miyo",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d3/RokujushiMiyoP.png",
+    "description": ""
+  },
+  {
+    "name": "Riko Amanai",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/1/1d/RikoAmanaiP.png",
+    "description": "The Star Plasma Vessel."
+  },
+  {
+    "name": "Misato Kuroi",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/ea/MisatoKuroiP.png",
+    "description": ""
+  },
+  {
+    "name": "Ui Ui",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/e0/UiUiP.png",
+    "description": "Younger brother and assistant of Mei Mei."
+  },
+  {
+    "name": "Mahito",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/ec/MahitoP.png",
+    "description": "A cursed spirit born from humans' hatred of other humans."
+  },
+  {
+    "name": "Jogo",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/76/JogoP.png",
+    "description": "A cursed spirit born from humans' fear of volcanoes and fire."
+  },
+  {
+    "name": "Hanami",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6a/HanamiP.png",
+    "description": "A cursed spirit born from humans' fear of land-based natural disasters."
+  },
+  {
+    "name": "Dagon",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/ac/DagonP.png",
+    "description": "A cursed spirit born from humans' fear of water-based natural disasters."
+  },
+  {
+    "name": "Rika Orimoto",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/46/CursedRikaOrimotoP.png",
+    "description": "The Queen of Curses, haunting Yuta Okkotsu."
+  },
+  {
+    "name": "Kuchisake-Onna",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/74/Kuchisake-OnnaP.png",
+    "description": ""
+  },
+  {
+    "name": "Tamamo-no-Mae Incarnate",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/2f/Tamamo-no-MaeP.png",
+    "description": ""
+  },
+  {
+    "name": "Smallpox Deity",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/5b/SmallpoxDeityP.png",
+    "description": ""
+  },
+  {
+    "name": "Kurourushi",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/1/1a/KurourushiP.png",
+    "description": ""
+  },
+  {
+    "name": "Ganesha",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/7a/GaneshaP.png",
+    "description": ""
+  },
+  {
+    "name": "Akuro-o Otake",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/b/b3/Akuro-o_OtakeP.png",
+    "description": ""
+  },
+  {
+    "name": "Cursed Spirit",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/e8/Roppongi_Curse.png",
+    "description": ""
+  },
+  {
+    "name": "Cursed Spirit Manipulation",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/e7/HapinaCurseP.png",
+    "description": ""
+  },
+  {
+    "name": "Finger Bearer",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f9/FingerBearerP.png",
+    "description": ""
+  },
+  {
+    "name": "Fly Heads",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/48/FlyHeadsP.png",
+    "description": ""
+  },
+  {
+    "name": "Ko-Guy",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/7b/GrasshopperCurseP.png",
+    "description": ""
+  },
+  {
+    "name": "Toji Fushiguro",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/44/InventoryCurseP.png",
+    "description": "The Sorcerer Killer, father of Megumi Fushiguro."
+  },
+  {
+    "name": "Rainbow Dragon",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/39/RainbowDragonP.png",
+    "description": ""
+  },
+  {
+    "name": "Rika",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/2f/RikaP.png",
+    "description": ""
+  },
+  {
+    "name": "Mimiko Hasaba",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/47/MimikoP.png",
+    "description": ""
+  },
+  {
+    "name": "Nanako Hasaba",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/e7/NanakoP.png",
+    "description": ""
+  },
+  {
+    "name": "Miguel",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/b/b9/MiguelP.png",
+    "description": ""
+  },
+  {
+    "name": "Larue",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/20/LarueP.png",
+    "description": ""
+  },
+  {
+    "name": "Manami Suda",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/ea/ManamiSudaP.png",
+    "description": ""
+  },
+  {
+    "name": "Toshihisa Negi",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/c6/ToshihisaNegiP.png",
+    "description": ""
+  },
+  {
+    "name": "Sukuna",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/3a/SukunaP.png",
+    "description": "Ryomen Sukuna, the King of Curses."
+  },
+  {
+    "name": "Kenjaku",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/4f/KenjakuP.png",
+    "description": "An ancient sorcerer inhabiting the body of Suguru Geto."
+  },
+  {
+    "name": "Uraume",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8b/UraumeP.png",
+    "description": "Follower of Sukuna, user of Ice Formation."
+  },
+  {
+    "name": "Juzo Kumiya",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/ca/JuzoKumiyaP.png",
+    "description": ""
+  },
+  {
+    "name": "Haruta Shigemo",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9a/HarutaShigemoP.png",
+    "description": ""
+  },
+  {
+    "name": "Niji Ebina",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/1/19/NijiEbinaP.png",
+    "description": ""
+  },
+  {
+    "name": "Jiro Awasaka",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6c/JiroAwasakaP.png",
+    "description": ""
+  },
+  {
+    "name": "Ogami",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/b/b0/OgamiP.png",
+    "description": ""
+  },
+  {
+    "name": "Ogami's Grandson",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/3d/OgamiGrandsonP.png",
+    "description": ""
+  },
+  {
+    "name": "Bayer",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/f/f5/VayerP.png",
+    "description": ""
+  },
+  {
+    "name": "Kokun",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/25/KokunP.png",
+    "description": ""
+  },
+  {
+    "name": "Junpei Yoshino",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/4b/JunpeiYoshinoP.png",
+    "description": "Student who befriended Yuji Itadori and was manipulated by Mahito."
+  },
+  {
+    "name": "Noritoshi Kamo (Ancestor)",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/2a/NoritoshiKamoAP.png",
+    "description": ""
+  },
+  {
+    "name": "Curse User",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/a/a0/OldCurseUserP.png",
+    "description": ""
+  },
+  {
+    "name": "Shigeru Sonoda",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6d/ShigeruSonodaP.png",
+    "description": ""
+  },
+  {
+    "name": "Shiu Kong",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/7a/ShiuKongP.png",
+    "description": ""
+  },
+  {
+    "name": "Setsuko Sasaki",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/e3/Setsuko_Sasaki.png",
+    "description": ""
+  },
+  {
+    "name": "Takeshi Iguchi",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/b/b3/IguchiP.png",
+    "description": ""
+  },
+  {
+    "name": "Shota Ito",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/7a/ShotaItoP.png",
+    "description": ""
+  },
+  {
+    "name": "Tsumiki Fushiguro",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/30/TsumikiFushiguroP.png",
+    "description": "Stepsister of Megumi Fushiguro."
+  },
+  {
+    "name": "Yuko Ozawa",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/dc/YukoOzawaP.png",
+    "description": ""
+  },
+  {
+    "name": "Fumi",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d0/FumiProfile.png",
+    "description": ""
+  },
+  {
+    "name": "Wasuke Itadori",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9c/WasukeItadoriP.png",
+    "description": "Grandfather of Yuji Itadori."
+  },
+  {
+    "name": "Nagi Yoshino",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/1/1f/NagiYoshinoP.png",
+    "description": "Mother of Junpei Yoshino."
+  },
+  {
+    "name": "Nobuko Takada",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d5/Takada-chanP.png",
+    "description": "Pop idol admired by Aoi Todo."
+  },
+  {
+    "name": "Takagi",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/82/Takagi.png",
+    "description": ""
+  },
+  {
+    "name": "Tadashi Okazaki",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6d/TadashiOkazakiP.png",
+    "description": ""
+  },
+  {
+    "name": "Furudate",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/3c/FurudateP.png",
+    "description": ""
+  },
+  {
+    "name": "Jin Itadori",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/e2/JinItadoriP.png",
+    "description": "Father of Yuji Itadori."
+  },
+  {
+    "name": "Saori",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/49/Adult_SaoriP.png",
+    "description": "Saori is the childhood friend of Nobara Kugisaki."
+  },
+  {
+    "name": "Renchoku Girls' Junior High",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/62/HikariGenjiP.png",
+    "description": ""
+  },
+  {
+    "name": "Taichi Kanada",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/d/d6/TaichiKanadaP.png",
+    "description": ""
+  },
+  {
+    "name": "Takeda",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/ca/Takeda_P.png",
+    "description": ""
+  },
+  {
+    "name": "Sotomura",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/0c/SotomuraP.png",
+    "description": ""
+  },
+  {
+    "name": "Keita Oe",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/6a/KeitaOeP.png",
+    "description": ""
+  },
+  {
+    "name": "Cyrus Veil",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/e/e5/CyrusVeilP.png",
+    "description": ""
+  },
+  {
+    "name": "Garry K. Johnson",
+    "imageUrl": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/8f/GarryKJohnsonP.png",
+    "description": ""
+  }
+]
