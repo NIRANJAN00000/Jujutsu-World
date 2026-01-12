@@ -36,7 +36,8 @@ try {
       id: 1,
       name: "Satoru Gojo",
       description: "Satoru Gojo is the strongest jujutsu sorcerer.",
-      image: "http://localhost:5000/img/Satoru Gojo.png",
+      image:
+        "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/53/GojoP.png",
     },
   ];
 }
@@ -56,7 +57,7 @@ const video = [
     name: "jujutsu kaisen trailer",
     description:
       "This jujutsu kaisen trailer is a must watch for all the fans of the series",
-    video: "http://localhost:5000/video/Video jujutsu kaisen.mp4",
+    video: "/video/Video jujutsu kaisen.mp4",
   },
 ];
 
